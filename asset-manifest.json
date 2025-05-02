@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Pokimon-Update/static/css/main.6cd0c1f9.css",
-    "main.js": "/Pokimon-Update/static/js/main.016818d3.js",
+    "main.js": "/Pokimon-Update/static/js/main.bfe75711.js",
     "static/js/453.19367fad.chunk.js": "/Pokimon-Update/static/js/453.19367fad.chunk.js",
     "static/media/back-5.jpg": "/Pokimon-Update/static/media/back-5.568c873fccb3a10921f0.jpg",
     "index.html": "/Pokimon-Update/index.html",
     "main.6cd0c1f9.css.map": "/Pokimon-Update/static/css/main.6cd0c1f9.css.map",
-    "main.016818d3.js.map": "/Pokimon-Update/static/js/main.016818d3.js.map",
+    "main.bfe75711.js.map": "/Pokimon-Update/static/js/main.bfe75711.js.map",
     "453.19367fad.chunk.js.map": "/Pokimon-Update/static/js/453.19367fad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cd0c1f9.css",
-    "static/js/main.016818d3.js"
+    "static/js/main.bfe75711.js"
   ]
 }
