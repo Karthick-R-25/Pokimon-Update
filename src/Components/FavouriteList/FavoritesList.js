@@ -41,7 +41,7 @@ const FavoritesPage = () => {
     return (
       <div className="no-favorites">
         <p>You have no favorite Pokémon yet. Go catch some!</p>
-        <img src={home} alt='go to Home' title='go home' onClick={() => navigate('/')} />
+        <img src={home} alt='go to Home' title='go home' onClick={() => navigate('/Pokimon-Update')} />
          
         
       </div>
