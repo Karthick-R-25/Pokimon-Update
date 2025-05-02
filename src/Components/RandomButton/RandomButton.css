@@ -1,0 +1,19 @@
+.random-button-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .random-button {
+    padding: 10px 20px;
+    background-color: #ffcb05;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .random-button:hover {
+    background-color: #ffdb4d;
+  }
+  

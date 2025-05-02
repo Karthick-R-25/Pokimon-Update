@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+.favorites-list {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .favorites-list h2 {
+    margin-bottom: 20px;
+    color: #efe00ffb;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 30px;
+    -webkit-text-stroke: 0.5px #0a57f2;
+  }
+  
+  .favorites-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 20px;
+  }
+  
+  .no-favorites p{
+    color: #efe00ffb;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 30px;
+    -webkit-text-stroke: 0.5px #0a57f2;
+    margin-left: 25%;
+  }
+  
